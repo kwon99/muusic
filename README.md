@@ -47,4 +47,4 @@ Discord Bot Token
 
 ## 정보
 
-이름 – [@Instagram](https://instagram.com/kyh_0312) – kyonggi@kakao.com
+권영훈 – [@Instagram](https://instagram.com/kyh_0312) – kyonggi@kakao.com
