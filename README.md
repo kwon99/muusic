@@ -3,7 +3,7 @@
 
 음악 재생, 검색과 관련된 기능, 날씨와 같은 간단한 질의응답과 번역 기능을 포함하였습니다.
 
-![](/assets/muusic.jpg)
+<img src="/assets/muusic.jpg"  width="400" height="400"/>
 
 ## 설치 및 세팅 방법
 
